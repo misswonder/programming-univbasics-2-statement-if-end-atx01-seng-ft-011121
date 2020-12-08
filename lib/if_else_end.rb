@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 run_code_inside = true
 puts "Code before if...end"
 if run_code_inside
@@ -54,5 +53,3 @@ if current_time.even?
 else
   puts "Odd!"
 end
-=======
->>>>>>> 2949fe02fef3b1a139ae8eaf96ed94ad33d8af5a
